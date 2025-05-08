@@ -14,7 +14,8 @@ Oferecer aos usuários uma plataforma simples, responsiva e eficiente para:
 - Caio Henrique Almeida de Oliveira  
 - Helio Gallisa  
 - Guilherme Santa Clara  
-- João Gabriel Diniz  
+- João Gabriel Diniz
+- Pedro Carvalho Furtado
   
 
 ## 🔗 Links úteis
