@@ -39,3 +39,9 @@ https://trello.com/invite/b/681a16c086b7d1c0341d4d48/ATTIfe3648d1851b2dd656c9686
 
 ## 📅 Organização
 Tarefas organizadas via Trello com base nas ODS e etapas do projeto.
+
+## Quadro e BackLog das Historias ----
+![Captura de tela 2025-05-09 221419](https://github.com/user-attachments/assets/aa431860-72c6-49b5-8755-cfd15e91b7aa)
+![Imagem do WhatsApp de 2025-05-09 à(s) 22 02 25_f7c05786](https://github.com/user-attachments/assets/34a5ba0b-486f-44ec-b505-31a94941e9de)
+
+
